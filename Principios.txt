@@ -1,0 +1,6 @@
+O que são Clients?
+O Client é o dispositivo que está consumindo algo da internet
+Protocolo HTTP
+
+Chache - É a gravura de um site no seu proprio computador ou sistema
+Ágilizando o processo de louding
