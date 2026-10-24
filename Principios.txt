@@ -4,3 +4,9 @@ Protocolo HTTP
 
 Chache - É a gravura de um site no seu proprio computador ou sistema
 Ágilizando o processo de louding
+
+
+Tag <Form>
+
+ A tag form trabalha do lado do CLIENT onde a tag form anda de mão dadas 
+ O servidor, onde o form recebe informação e o servidor guarda
